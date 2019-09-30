@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohlionaexu.bpmoffiziell.com/sitemap.xml
